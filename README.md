@@ -1,6 +1,6 @@
 # test-gh
 
-En esté espacio explicaré como hice el deploy de una aplicativo VUE
+En esté espacio explicaré como hice el deploy de una aplicativo Vuejs + Vite
 
 ## 1. Creamos un repositio público con github
 
